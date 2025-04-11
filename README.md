@@ -14,19 +14,15 @@
 
 [![](https://dcbadge.limes.pink/api/server/ByRwuEEgH4)](https://aka.ms/genai-discord?WT.mc_id=academic-105485-koreyst)
 
-# Generative AI for Beginners (Version 3) - A Course
+# Generative AI
 
-Learn the fundamentals of building Generative AI applications with our 21-lesson comprehensive course by Microsoft Cloud Advocates.
+Fundamentals of building Generative AI applications by Microsoft Cloud Advocates.
 
 ## 🌱 Getting Started
 
-This course has 21 lessons. Each lesson covers its own topic so start wherever you like!
-
-Lessons are labeled either "Learn" lessons explaining a Generative AI concept or "Build" lessons that explain a concept and code examples in both **Python** and **TypeScript** when possible.
+Concept and code examples in both **Python** and **TypeScript** when possible.
 
 For .NET Developers checkout [Generative AI for Beginners (.NET Edition)](https://github.com/microsoft/Generative-AI-for-beginners-dotnet?WT.mc_id=academic-105485-koreyst)!
-
-Each lesson also includes a "Keep Learning" section with additional learning tools.
 
 ## What You Need
 ### To run the code of this course, you can use either: 
